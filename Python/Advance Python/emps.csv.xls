@@ -1,0 +1,21 @@
+Emp_ID,Name,Gender,Department,Designation,City,Age,Experience_Years,Salary,Joining_Year,Performance_Score,Work_Mode
+101,Amit Sharma,Male,IT,Python Developer,Mumbai,26,3,55000,2022,8,Hybrid
+102,Priya Mehta,Female,HR,HR Executive,Pune,29,5,48000,2020,7,Office
+103,Rahul Verma,Male,Finance,Accountant,Delhi,31,7,62000,2018,9,Office
+104,Sneha Patil,Female,IT,Data Analyst,Bangalore,24,2,50000,2023,8,Remote
+105,Arjun Singh,Male,Sales,Sales Executive,Mumbai,28,4,45000,2021,6,Office
+106,Neha Joshi,Female,IT,AI Engineer,Hyderabad,30,6,85000,2019,9,Hybrid
+107,Karan Shah,Male,Marketing,SEO Specialist,Ahmedabad,27,3,40000,2022,7,Remote
+108,Divya Rao,Female,Finance,Financial Analyst,Chennai,32,8,70000,2017,9,Office
+109,Rohan Kulkarni,Male,IT,Backend Developer,Pune,25,2,58000,2023,8,Hybrid
+110,Anjali Desai,Female,Sales,Business Development Executive,Mumbai,26,3,47000,2022,7,Office
+111,Vikram Yadav,Male,IT,Full Stack Developer,Delhi,29,5,76000,2020,9,Remote
+112,Pooja Nair,Female,HR,Recruiter,Bangalore,27,4,42000,2021,8,Hybrid
+113,Sameer Khan,Male,Finance,Tax Consultant,Mumbai,35,10,90000,2015,9,Office
+114,Ritika Kapoor,Female,Marketing,Content Writer,Pune,24,2,38000,2023,7,Remote
+115,Yash Patil,Male,IT,Machine Learning Engineer,Hyderabad,28,5,95000,2020,10,Hybrid
+116,Meera Iyer,Female,IT,Frontend Developer,Chennai,25,3,53000,2022,8,Office
+117,Aakash Jain,Male,Sales,Sales Manager,Delhi,33,9,82000,2016,9,Office
+118,Komal Gupta,Female,Finance,Auditor,Ahmedabad,30,6,67000,2019,8,Hybrid
+119,Nitin Kumar,Male,Marketing,Digital Marketer,Mumbai,26,3,45000,2022,7,Remote
+120,Shreya Kulkarni,Female,IT,Data Scientist,Bangalore,29,5,98000,2020,10,Hybrid
